@@ -6,7 +6,8 @@ I've also been working on an IoT platform called [Beeno](https://beeno.it/contac
 
 In my spare time I like to crack open a cold one 🍺, and as many file formats and protocols as possible.
 
-### Want to chit-chat?
+**Want to chit-chat?**
+
 You can find me in [my discord server](https://discord.gg/HZ9fQeBeZS) all the damn time, on [linkedin](https://www.linkedin.com/in/robert-manolea/) for corporate and business stuff and all around the web [@pupix](https://www.google.com/search?q=%40pupix) or [@robertmanolea](https://www.google.com/search?q=%40robertmanolea) most likely.
 
 kthxbai.
