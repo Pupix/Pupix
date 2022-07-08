@@ -1,8 +1,6 @@
 ## Hey, what's up?
 
-I am Robert, a cutting edge tech enthusiast and a full stack developer that wears many hats, from grayscaled ones to cool af ones. I specialize in web and API development, cloud architectures and system integrations. Currently working at my own startup (as you do), [API FORGE](https://apiforge.it), where we help businesses move into the future through the process of digital transformation.
-
-I've also been working on an IoT platform called [Beeno](https://beeno.it/contact). Why do things yourself when you can have a bunch of smart devices do everything while you take a nap?
+I am Robert, a cutting edge tech enthusiast and a full stack developer that wears many hats, from white to black, and everything in between. I specialize in web and API development, cloud architectures, system integrations and IoT. Been developing [API FORGE](https://apiforge.it), a RESTful APIs factory for a few years. I've also been working on an IoT monitoring and analysis platform called [BEENO](https://beeno.it/contact). Why do things yourself when you can have a bunch of smart devices do everything while you take a nap?
 
 In my spare time I like to crack open a cold one 🍺, and as many file formats and protocols as possible.
 
